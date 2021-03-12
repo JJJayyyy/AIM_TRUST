@@ -1,0 +1,6 @@
+The train.py is the main function of our program. 
+Network structure and replay memory was define in the ./utils/nnutil.py and ./utils/replay.py separate.
+The reward define and RL agent were defined in the agent_base.py
+
+Before the train function running, please check the loss.csv and cumlativereward.csv are in the same folder.
+Before the test function running, please check the network files are in the same folder.

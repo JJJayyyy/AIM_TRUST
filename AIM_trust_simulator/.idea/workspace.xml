@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8383a102-01a4-4beb-b391-d30101b97cb8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="124" />
+  </component>
+  <component name="ProjectId" id="1dKSSlLa3gXrDC9O4KPggsesIcE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../twocars/src/main/java/aim4/sim/AutoDriverOnlySimulator.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../aimtrust/scenario_6.14" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aim4.Main" />
+      <module name="AIM4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aim4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8383a102-01a4-4beb-b391-d30101b97cb8" name="Default Changelist" comment="" />
+      <created>1592172293662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592172293662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1453" height="327" key="GridCell.Tab.0.bottom" timestamp="1615511929936">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1453" height="327" key="GridCell.Tab.0.bottom/57.25.1735.1095@57.25.1735.1095" timestamp="1615511929936" />
+    <state width="1453" height="327" key="GridCell.Tab.0.center" timestamp="1615511929936">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1453" height="327" key="GridCell.Tab.0.center/57.25.1735.1095@57.25.1735.1095" timestamp="1615511929936" />
+    <state width="1453" height="327" key="GridCell.Tab.0.left" timestamp="1615511929936">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1453" height="327" key="GridCell.Tab.0.left/57.25.1735.1095@57.25.1735.1095" timestamp="1615511929936" />
+    <state width="1453" height="327" key="GridCell.Tab.0.right" timestamp="1615511929936">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state width="1453" height="327" key="GridCell.Tab.0.right/57.25.1735.1095@57.25.1735.1095" timestamp="1615511929936" />
+    <state x="696" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1615511597740">
+      <screen x="57" y="25" width="1735" height="1095" />
+    </state>
+    <state x="696" y="358" key="com.intellij.ide.util.TipDialog/57.25.1735.1095@57.25.1735.1095" timestamp="1615511597740" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/aim4/util/Util.java</url>
+          <line>60</line>
+          <properties class="aim4.util.Util" method="resetrandom">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/aim_tencars$Main.ic" NAME="Main Coverage Results" MODIFIED="1595845201137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>aim4.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+The scripts are all in the ./src/main/java directory.
+
+Before the running please check the BUFFER_UPDATE.csv and collision.txt are all in the same folder.

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aim4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/aim4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
