@@ -7,7 +7,7 @@ This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim
 - Reinforcement learning agent is included in the directory: /Trust_PL_agent is our  
 ***********
 
-## Running process
+## Running Process
 
 - run the ./Trust_RL_agent/train.py
 - run the ./AIM_trust_simulator/src/main/java/aim4/Main.java
