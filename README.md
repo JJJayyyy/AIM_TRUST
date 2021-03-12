@@ -16,5 +16,5 @@ This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim
 
 ## Questions or Bugs?
 
-You may send email to  <junyaozh@usc.edu> for any questions you may have or bugs that you find.
+You may send email to <junyaozh@usc.edu> and <mingxic@usc.edu> for any questions you may have or bugs that you find.
 ***********
