@@ -1,6 +1,6 @@
 # AIM_TRUST
 
-AIM_trust is a traffic simulator for the study of innovative design of intersection control protocol.
+AIM_trust is a traffic simulator for the study of innovative design of intersection control protocol and trust framework.
 This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim/).
 
 - GUI simulator is included in the directory: /AIM_trust_simulator. 
