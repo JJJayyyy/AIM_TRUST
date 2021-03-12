@@ -9,9 +9,9 @@ Reinforcement learning agent is included in the directory: /Trust_PL_agent is ou
 
 ## Running process
 
-1) run the ./Trust_RL_agent/train.py
-2) run the ./AIM_trust_simulator/src/main/java/aim4/Main.java
-3) GUI pop up and click start button
+- run the ./Trust_RL_agent/train.py
+- run the ./AIM_trust_simulator/src/main/java/aim4/Main.java
+- GUI pop up and click start button
 
 
 ## Questions or Bugs?
