@@ -1,5 +1,5 @@
 # AIM_TRUST
-***********
+
 AIM_trust is a traffic simulator for the study of innovative design of intersection control protocol and trust framework.
 This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim/).
 
@@ -8,13 +8,13 @@ This program is based on the source code of [AIM4](http://www.cs.utexas.edu/~aim
 ***********
 
 ## Running process
-***********
+
 - run the ./Trust_RL_agent/train.py
 - run the ./AIM_trust_simulator/src/main/java/aim4/Main.java
 - GUI pop up and click start button
 ***********
 
 ## Questions or Bugs?
-***********
+
 You may send email to  <junyaozh@usc.edu> for any questions you may have or bugs that you find.
 ***********
